@@ -45,7 +45,7 @@ pip install -r requirements.txt
 3. **Run the tool:**
 
 ```bash
-python sql_injection_tool.py
+python booleanblind.py
 ```
 
 4. **Choose the attack type**:
